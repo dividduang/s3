@@ -4,11 +4,7 @@
 
 ### 依赖
 
-```bash
-pip install opendal
-```
-
-或使用 uv：
+使用 uv：
 
 ```bash
 uv add opendal
